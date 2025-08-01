@@ -1,2 +1,2 @@
 # prayer-times
-prayer-times react &amp; mui
+Prayer-Times React &amp; MUI &amp; API  
